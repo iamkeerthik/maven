@@ -1,3 +1,2 @@
-<<<<<<< 
-Welcome to kirik tech
-=======
+ -------- Welcome to Kirik Tech ############
+>>>>> CICD Pipeline with groovy script <<<<<<
